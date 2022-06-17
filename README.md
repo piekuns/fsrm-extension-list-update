@@ -1,5 +1,5 @@
 # fsrm-extension-list-update
-#### Extension list update on Windows Server Resource Manager. Public available and your own.
+#### Extension list update on Windows Server Resource Manager
 ##### Install from GUI new Windows role FSRM
 ##### Add from FSRM new file type group "Anti-Ransomware File Groups" and add one extension there
 ##### Place fsrm_extension_update.ps1+blacklist_include.txt+blacklist_exclude.txt in folder c:\scripts\
